@@ -4,9 +4,8 @@ date: 2019-12-23
 categories:
   - junit
 tags:
-  - Post Formats
-  - readability
-  - standard
+  - test
+  - junit
 ---
 >   스프링부트 2.2부터 JUnit5가 기본적으로 의존성에 추가된다.
    클래스와 테스트메서드에 더이상 public 접근제한자 설정 안해줘도 된다. package-private으로 설정하면 된다.
