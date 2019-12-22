@@ -2,7 +2,7 @@
 title: "[JUnit5] 기본어노테이션"
 date: 2019-12-23
 categories:
-  - TEST
+  - junit
 tags:
   - Post Formats
   - readability
