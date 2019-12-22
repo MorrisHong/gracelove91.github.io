@@ -107,7 +107,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "GraceLove"
+  name             : "홍은모"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "I am an **amazing** person."
   location         : "대한민국 - 경기도 용인시"
@@ -115,7 +115,7 @@ author:
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-#      url: mailto:govlmo91@gmail.com
+      url: mailto:govlmo91@gmail.com
     - label: "Website"
       icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"
