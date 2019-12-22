@@ -38,7 +38,7 @@ tags:
 
 ### 기본적인 테스트 코드
 
-```
+```java
 class BasicTest {
     @Test
     void test1() {
