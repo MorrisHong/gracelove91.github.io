@@ -10,13 +10,13 @@
 # Review documentation to determine if you should use `theme` or `remote_theme`
 # https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/#installing-the-theme
 
-theme                  : "minimal-mistakes-jekyll"
-remote_theme           : "mmistakes/minimal-mistakes"
+# theme                  : "minimal-mistakes-jekyll"
+# remote_theme           : "mmistakes/minimal-mistakes"
 minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "GraceLove의 기록"
+title                    : "Site Title"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "홍은모"
@@ -115,10 +115,13 @@ author:
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      url: mailto:govlmo91@gmail.com
+      # url: mailto:your.name@email.com
     - label: "Website"
       icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"
+    - label: "Twitter"
+      icon: "fab fa-fw fa-twitter-square"
+      # url: "https://twitter.com/"
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
       url: "https://www.facebook.com/profile.php?id=100039157392742"
