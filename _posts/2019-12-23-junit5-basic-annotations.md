@@ -80,4 +80,10 @@ class BasicTest {
 
 ### JUnit4와 JUnit5의 대응 애너테이션
 
-<table style="border-collapse: collapse; width: 100%;" border="1" data-ke-style="style3"><tbody><tr><td style="width: 50%; text-align: center;"><b>JUnit4</b></td><td style="width: 50%; text-align: center;"><b>JUnit5</b></td></tr><tr><td style="width: 50%;">@Test</td><td style="width: 50%;">@Test</td></tr><tr><td style="width: 50%;">@BeforeClass</td><td style="width: 50%;">@BeforeAll</td></tr><tr><td style="width: 50%;">@AfterClass</td><td style="width: 50%;">@AfterAll</td></tr><tr><td style="width: 50%;">@Before</td><td style="width: 50%;"><span style="color: #333333;">@BeforeEach</span></td></tr><tr><td style="width: 50%;">@After</td><td style="width: 50%;">@AfterEach</td></tr><tr><td style="width: 50%;">@Ignored</td><td style="width: 50%;">@Disabled</td></tr></tbody></table>
+| JUnit4	 | JUnit5 | 
+|:-----------:|:----------:|
+| @Test	      | @Test      | 
+| @BeforeClass| @BeforeAll |
+| @AfterClass | @BeforeEach|
+| @Before	  | AfterEach  |
+{: rules="groups"}
