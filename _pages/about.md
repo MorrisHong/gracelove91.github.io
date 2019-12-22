@@ -1,7 +1,7 @@
 ---
+author_profile: true
 permalink: /about/
 title: "About"
-author_profile: true
 toc: true
 ---
 
