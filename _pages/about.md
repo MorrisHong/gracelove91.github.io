@@ -2,7 +2,7 @@
 author_profile: true
 permalink: /about/
 title: "About"
-layout: categories
+layout: default
 toc: true
 ---
 
