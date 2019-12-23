@@ -32,6 +32,6 @@ tag:
 	 - JVM자체는 표준. 구현체로는 오라클, 아마존, Azul, 레드햇 ... 등등이 있다.
 
 
-참조 : > [더 자바, 코드를 조작하는 다양한 방](https://www.inflearn.com/course/the-java-code-manipulation/)
+참조 : > [더 자바, 코드를 조작하는 다양한 방법](https://www.inflearn.com/course/the-java-code-manipulation/)
 
 
