@@ -1,12 +1,12 @@
---
+---
 title: JDK, JVM, JRE
 date: 2019-12-23
 categories:
-    - java
-tag
-    - java
-    - jvm
---
+ - java
+tag:
+ - java
+ - jvm
+---
 
 
 
